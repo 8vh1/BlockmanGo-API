@@ -1,2 +1,2 @@
 # BlockmanGo-API
-First Open Source for Blockman Go 
+First Open Source for Blockman Go Coming Soon
